@@ -1,0 +1,14 @@
+.sequence-whole
+{
+    position: absolute;
+    left: 150px;
+    top: 50px;
+}
+
+.sequence-element
+{
+    width: 10px;
+    background-color: blue;
+    display: inline-block;
+    margin: 0 1.5px;
+}
